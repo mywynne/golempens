@@ -2,8 +2,8 @@
 title: Golem Pens
 subtitle: Bring your writing to life
 email: hello@golempens.ca
-description: Informational landing site for Golem Pens.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+description: 
+baseurl: '/home' # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: 
 street_address: 
@@ -22,14 +22,8 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
-  GitLab:
-  Google-Plus: 
   Instagram: https://www.instagram.com/golempens/
-  LinkedIn: 
-  Twitter: 
-  Facebook:
-  Slack:
+  Bluesky: https://bsky.app/profile/golempens
 
 # build settings
 markdown: kramdown
