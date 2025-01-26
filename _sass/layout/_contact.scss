@@ -7,7 +7,7 @@
 /* Contact */
 
 	#contact {
-		border-bottom: solid 1px _palette(border);
+		border-bottom: solid 5px _palette(border);
 		overflow-x: hidden;
 		background-color: _palette(bg-footer);
 
@@ -17,14 +17,14 @@
 
 			> :nth-child(1) {
 				@include padding(2em, 0, (0, 3em, 2em, 0));
-				border-right: solid 2px _palette(border);
+				border-right: solid 5px _palette(border);
 				width: 33%;
 				z-index: 1;
 			}
 
 			> :nth-child(2) {
 				@include padding(2em, 0, (0, 3em, 2em, 3em));
-				border-right: solid 2px _palette(border);
+				border-right: solid 5px _palette(border);
 				width: 34%;
 				z-index: 1;
 			}
@@ -32,6 +32,7 @@
 			> :nth-child(3) {
 				@include padding(2em, 0, (0, 0, 2em, 3em));
 				width: 33%;
+				z-index: 1;
 			}
 
 			> .split {
