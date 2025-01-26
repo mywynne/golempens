@@ -27,6 +27,7 @@
 				}
 			}
 		}
+		background-color: _palette(bg-footer);
 
 		@include breakpoint(xsmall) {
 			.copyright {
