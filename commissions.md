@@ -31,7 +31,7 @@ nav-menu: true
 <ul>
 	<li>Base price for the Spindle and Augur models is $150 USD including a nib, or $135 USD without a nib.</li>
 	<li>Fully polished demonstrators are an additional ??? USD.</li>
-	<li>Certain materials may incur an additional cost.</li>
+	<li>Certain materials may incur an additional cost which will be discussed up front.</li>
 	<li>Clips (on available pens) are an additional ??? USD.</li>
 	<li>Schmidt K5 converters can be included for $5 USD.</li>
 	<li>Shipping is not included and will be charged at cost.</li>
