@@ -16,16 +16,18 @@ nav-menu: true
 			<h1>Models</h1>
 		</header>
 
-<h2 id="content">The Spindle</h2>
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+<h2 id="content">Spindle</h2>
+<p>The Spindle was the first pen model I developed, and is my interpretation of a flat top. It has gently a gently tapered cap and body, with a small stepdown between body and section. The section is my preferred "bottle neck" design. Instead of being truly flat, the cap and body feature concave ends, perfect for fidgeting with.</p>
+
+<p>Currently available with 13mm triple start cap threads.</p>
 
 <hr class="major" />
 
-<h2 id="content">The Augur</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+<h2 id="content">Augur</h2>
+<p>The Augur is my take on the iconic cigar design. Opting for rounded ends with straight lines and parts about as thin as I can safely make them, the Augur has a stepless body/section, and a satisfying slip-to-post cap.</p>
 
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<p>Currently available with 13mm triple start cap threads.</p>
 
-    </div>
+</div>
 
 </section>

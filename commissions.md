@@ -44,8 +44,8 @@ nav-menu: true
 
 <hr class="major" />
 
+<h2 id="content">Can you...?</h2>
+<p>I am always happy to discuss modifications of my standard models, and special projects. I tend to work cautiously and I reserve the right to refuse a commission if I am not confident that I can complete the work to everyone's expectations, source the desired materials, etc. I don't like over promising.
+
 <h2 id="content">Payment</h2>
 <p>I accept payment through PayPal (all customers) or e-transfer (Canadian banking only).</p>
-
-</div>
-
